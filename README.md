@@ -5,11 +5,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chhabinath&layout=compact&theme=tokyonight)
-
----
-
 ## 🔭 I’m currently working on
 - **100 Spring Boot Projects** challenge  
 - Real-time applications using **Spring Boot + Kafka**  
