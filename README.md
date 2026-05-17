@@ -112,10 +112,16 @@ Transfer learning pipeline using ResNet50 for image classification, served via F
 
 ---
 
-## 📈 GitHub Stats
+## 🏆 At a Glance
 
-![Chhabinath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chhabinath&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chhabinath&layout=compact&theme=tokyonight&hide_border=true)
+| | |
+|---|---|
+| 🤖 **AI Projects** | GenAI Email System, Image Classification API, RAG Chatbot |
+| ⚡ **Backend** | 5+ production-grade Spring Boot microservices |
+| 📊 **Data** | Power BI dashboards, real-time Redis pipelines |
+| ☁️ **Certified** | AWS Cloud Practitioner |
+| 📍 **Location** | Bengaluru, India — Immediate Joiner |
+| 💬 **Languages** | Java · Python · SQL · JavaScript |
 
 ---
 
