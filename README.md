@@ -13,7 +13,7 @@
 
 > I build AI-powered systems and the production-grade backend infrastructure that makes them actually work at scale.
 
-📍 Bengaluru, India  |  📧 chhabinath1519@gmail.com  |  ⚡ Immediate Joiner
+📍 Bengaluru, India  |  📧 chhabinathsahoo.dev@gmail.com  |  ⚡ Immediate Joiner
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chhabinath-sahoo/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/chhabinath/)
